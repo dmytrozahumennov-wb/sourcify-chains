@@ -438,6 +438,15 @@
       }
     }
   },
+  "1875": {
+    "sourcifyName": "Whitechain",
+    "rpc": ["https://rpc.whitechain.io"],
+    "fetchContractCreationTxUsing": {
+      "blockscoutApi": {
+        "url": "https://explorer.whitechain.io/"
+      }
+    }
+  },
   "401": {
     "sourcifyName": "Ozone Chain Testnet",
     "rpc": ["https://node2.testnet.ozonechain.io"],
